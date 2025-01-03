@@ -3,3 +3,4 @@ Here, I will put all code done in sequence.
 1 Info for Java Course
 2 Hello World
 3 Variables
+4 Datatypes
