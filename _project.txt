@@ -4,3 +4,4 @@ Here, I will put all code done in sequence.
 2 Hello World
 3 Variables
 4 Datatypes
+5 Literal
