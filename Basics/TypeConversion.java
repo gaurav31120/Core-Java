@@ -12,18 +12,21 @@ class TypeConversion {
 		
 		int aa=257;
 		byte k=(byte)aa;
+        System.out.println(k);
 		
 		float f=5.6f;
 		int t=(int)f;
+        System.out.println(t);
 		
 		int a2=2567;
-		byte b2=(byte)a;
-		System.out.println(k);
+		byte b2=(byte)a2;
+        System.out.println(b2);
+		
 		
 		byte a3=10;
 		byte b4=20;
-		int t=a*b;
-		System.out.println(t);
+		int t1=a3*b4;
+		System.out.println(t1);
 
     }
 }
