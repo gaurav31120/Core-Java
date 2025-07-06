@@ -11,3 +11,4 @@ Here, I will put all code done in sequence.
 9 LogicalOperators
 10 IfElseConditionals
 11 ElseIfConditionals
+12 Ternary operator
