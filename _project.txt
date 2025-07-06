@@ -16,3 +16,4 @@ Here, I will put all code done in sequence.
 14 New Switch
 15 While loop
 16 Do While loop
+17 For loop
