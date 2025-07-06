@@ -14,3 +14,4 @@ Here, I will put all code done in sequence.
 12 Ternary operator
 13 Switch
 14 New Switch
+15 While loop
