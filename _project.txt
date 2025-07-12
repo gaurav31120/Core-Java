@@ -20,6 +20,9 @@ Here, I will put all code done in sequence.
 18 Class And Object Theory
 19 Class and Object Practical
 20 JDK JRE JVM in Java
+21 Methods in Java
+22 Method Overloading
+
 
 
 
