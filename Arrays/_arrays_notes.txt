@@ -154,7 +154,7 @@ for(dataType singleDimension[]: twoDimension){
 
 27 jagged and 3D Array
 
-In this lecture we are discussing:
+Here we are discussing:
 1)What if array of array of different size ?
 2)Jagged array concept
 3)If i donot know column size of array 
@@ -243,3 +243,14 @@ for(int i=0;i num.length;i++){
         }
     }
 }
+-----------------------------------------------------
+28 Drawbacks of Array
+
+Here we are discussing drawback of array:
+-- if we say new it create object in heap 
+-- Array need contagious memory allocation
+--  Once you create array you cannot increase size in current array
+-- for insertion and searching in array performance is low as compare 
+hashset, linkedhashset, linkedlist in upcoming lecture we talking about collection so you understand why we need other data structure to store element.
+-- only homogenous data allowed in array e.g if data is int type then you cannot add string , float and other data type in it.
+-- collection is solution for this
